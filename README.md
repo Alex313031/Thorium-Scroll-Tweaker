@@ -1,4 +1,4 @@
-# Thorium Scroll Tweaker
+# Thorium Scroll Tweaker &nbsp;<img src="https://raw.githubusercontent.com/Alex313031/Thorium-Scroll-Tweaker/main/logo.png" width="48">
 A small extension that allows you to tweak the scroll speed on websites.
 
 This small extension allows you to increase scroll speed on web pages either :
