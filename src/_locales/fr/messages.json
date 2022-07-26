@@ -1,0 +1,75 @@
+{
+  "meta_Name": {
+	"description": "Nom complet de l'extension",
+    "message": "Ajusteur de Défilement de Thorium"
+  },
+  "meta_ShortName": {
+	"description": "Le nom abrégé de l'extension",
+    "message": "Ajusteur de Défilement"
+  },
+  "meta_description": {
+    "description": "La description de l'extension",
+    "message": "Ajusteur de Défilement de Thorium est une petite extension qui vous permet de modifier la vitesse de défilement sur les sites Web."
+  },
+
+  "Settings_IgnoredUrls_label": {
+    "description": "Libellé pour la zone de texte qui permet d'indiquer une liste d'URLs où l'extension ne doit pas être lancée",
+    "message": "Désactiver l'extension sur ces URLs:"
+  },
+  "Settings_Mode_label": {
+    "description": "Libellé pour le menu déroulant qui permet de sélectionner le comportement par défaut de l'extension",
+    "message": "Augmenter la vitesse de défilement"
+  },
+  "Settings_Mode_Always_label": {
+    "description": "Libellé pour l'élément du menu déroulant pour toujours faire défiler plus vite",
+    "message": "Toujours"
+  },
+  "Settings_Mode_Always_description": {
+    "description": "Description pour l'élément du menu déroulant pour toujours faire défiler plus vite",
+    "message": "Dans ce mode, la vitesse de défilement sera toujours augmentée <strong>sauf</strong> lorsque la <em>Touche d'activation</em> est enfoncée."
+  },
+  "Settings_Mode_Always_warning": {
+    "description": "Avertissement pour l'élément du menu déroulant pour toujours faire défiler plus vite",
+    "message": "Attention: Cela pourrait ne pas fonctionner sur certains sites et empêcher complètement de faire défiler la page. Dans ce cas, vous pouvez ajouter ces sites à la liste des URLs à ignorer ci-dessous."
+  },
+  "Settings_Mode_OnTriggerKeyPressed_label": {
+    "description": "Libellé pour l'élement du menu déroulant pour faire défiler plus vite lorsque la touche d'activation est enfoncée",
+    "message": "Lorsque la <em>Touche d'activation</em> est enfoncée"
+  },
+  "Settings_Mode_OnTriggerKeyPressed_description": {
+    "description": "Description pour l'élement du menu déroulant pour faire défiler plus vite lorsque la touche d'activation est enfoncée",
+    "message": "Dans ce mode, la vitesse de défilement sera augmentée uniquement lorsque la <em>Touche d'activation</em> est enfoncée."
+  },
+  "Settings_SaveButton_label": {
+    "description": "Libellé du bouton Enregistrer",
+    "message": "Enregistrer"
+  },
+  "Settings_ScrollSpeedMultiplier_label": {
+    "description": "Libellé du champ de texte qui permet de définir le multiplicateur de la vitesse de défilement",
+    "message": "Multiplier la vitesse de défilement par"
+  },
+  "Settings_TriggerKey_label": {
+    "description": "Libellé du champ de texte qui permet de définir la touche à enfoncer",
+    "message": "Touche d'activation"
+  },
+  "Settings_TriggerKey_AltLeft": {
+    "description": "Nom de la touche Alt Gauche",
+    "message": "Alt Gauche"
+  },
+  "Settings_TriggerKey_ControlLeft": {
+    "description": "Nom de la touche Ctrl Gauche",
+    "message": "Ctrl Gauche"
+  },
+  "Settings_TriggerKey_ShiftLeft": {
+    "description": "Nom de la touche Maj Gauche",
+    "message": "Maj Gauche"
+  },
+  "Settings_TriggerKey_ControlLeft_warning": {
+    "description": "Avertissement de la touche Ctrl Gauche",
+    "message": "Attention : Cela va écraser le comportement par défaut de cette touche, qui permet de zoomer / dézoomer sur les sites web à l'aide de la molette."
+  },
+  "Settings_TriggerKey_ShiftLeft_warning": {
+    "description": "Avertissement de la touche Maj Gauche",
+    "message": "Attention : Cela va écraser le comportement par défaut de cette touche, qui permet de faire défiler la page horizontalement."
+  }
+}
