@@ -13,6 +13,6 @@ It is a fork of [this](https://github.com/flawyte/fast-scroll), and was made for
 
 ## Installation
 
-Get it on the [Chrome Webstore](https://chrome.google.com/webstore/detail/fast-scroll/ecnjcglleblahonnenpaiofkabfakgdi)
+Get it on the [Chrome Webstore](https://chrome.google.com/webstore/detail/thorium-scroll-tweaker/dgnjhkngmbcdbdmpbeechgihgijlajkf)
 
 If you have any feedback, feel free to open an issue here.
